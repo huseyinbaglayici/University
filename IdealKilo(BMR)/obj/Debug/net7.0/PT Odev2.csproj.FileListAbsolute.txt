@@ -1,0 +1,14 @@
+C:\Users\Huseyin\Desktop\PT Odev2\bin\Debug\net7.0\PT Odev2.exe
+C:\Users\Huseyin\Desktop\PT Odev2\bin\Debug\net7.0\PT Odev2.deps.json
+C:\Users\Huseyin\Desktop\PT Odev2\bin\Debug\net7.0\PT Odev2.runtimeconfig.json
+C:\Users\Huseyin\Desktop\PT Odev2\bin\Debug\net7.0\PT Odev2.dll
+C:\Users\Huseyin\Desktop\PT Odev2\bin\Debug\net7.0\PT Odev2.pdb
+C:\Users\Huseyin\Desktop\PT Odev2\obj\Debug\net7.0\PT Odev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin\Desktop\PT Odev2\obj\Debug\net7.0\PT Odev2.AssemblyInfoInputs.cache
+C:\Users\Huseyin\Desktop\PT Odev2\obj\Debug\net7.0\PT Odev2.AssemblyInfo.cs
+C:\Users\Huseyin\Desktop\PT Odev2\obj\Debug\net7.0\PT Odev2.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\Desktop\PT Odev2\obj\Debug\net7.0\PT Odev2.dll
+C:\Users\Huseyin\Desktop\PT Odev2\obj\Debug\net7.0\refint\PT Odev2.dll
+C:\Users\Huseyin\Desktop\PT Odev2\obj\Debug\net7.0\PT Odev2.pdb
+C:\Users\Huseyin\Desktop\PT Odev2\obj\Debug\net7.0\PT Odev2.genruntimeconfig.cache
+C:\Users\Huseyin\Desktop\PT Odev2\obj\Debug\net7.0\ref\PT Odev2.dll
