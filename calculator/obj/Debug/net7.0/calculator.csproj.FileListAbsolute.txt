@@ -1,0 +1,14 @@
+C:\Users\Huseyin\Desktop\KLASORLER\btkcsharp\calculator\bin\Debug\net7.0\calculator.exe
+C:\Users\Huseyin\Desktop\KLASORLER\btkcsharp\calculator\bin\Debug\net7.0\calculator.deps.json
+C:\Users\Huseyin\Desktop\KLASORLER\btkcsharp\calculator\bin\Debug\net7.0\calculator.runtimeconfig.json
+C:\Users\Huseyin\Desktop\KLASORLER\btkcsharp\calculator\bin\Debug\net7.0\calculator.dll
+C:\Users\Huseyin\Desktop\KLASORLER\btkcsharp\calculator\bin\Debug\net7.0\calculator.pdb
+C:\Users\Huseyin\Desktop\KLASORLER\btkcsharp\calculator\obj\Debug\net7.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin\Desktop\KLASORLER\btkcsharp\calculator\obj\Debug\net7.0\calculator.AssemblyInfoInputs.cache
+C:\Users\Huseyin\Desktop\KLASORLER\btkcsharp\calculator\obj\Debug\net7.0\calculator.AssemblyInfo.cs
+C:\Users\Huseyin\Desktop\KLASORLER\btkcsharp\calculator\obj\Debug\net7.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\Desktop\KLASORLER\btkcsharp\calculator\obj\Debug\net7.0\calculator.dll
+C:\Users\Huseyin\Desktop\KLASORLER\btkcsharp\calculator\obj\Debug\net7.0\refint\calculator.dll
+C:\Users\Huseyin\Desktop\KLASORLER\btkcsharp\calculator\obj\Debug\net7.0\calculator.pdb
+C:\Users\Huseyin\Desktop\KLASORLER\btkcsharp\calculator\obj\Debug\net7.0\calculator.genruntimeconfig.cache
+C:\Users\Huseyin\Desktop\KLASORLER\btkcsharp\calculator\obj\Debug\net7.0\ref\calculator.dll
