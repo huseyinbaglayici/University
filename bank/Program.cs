@@ -27,7 +27,7 @@ namespace Bank
 
             if (girilenDeger == "1")
             {
-                Console.WriteLine("İşlem Başarılı! Yeni bakiyeniz: " + bakiye + "$" + "\n Çıkmak İçin 'Q' tuşuna basın");
+                Console.WriteLine("İşlem Başarılı!  bakiyeniz: " + bakiye + "$" + "\n Çıkmak İçin 'Q' tuşuna basın");
                 Console.ReadKey();
             }
             else if (girilenDeger == "2")
