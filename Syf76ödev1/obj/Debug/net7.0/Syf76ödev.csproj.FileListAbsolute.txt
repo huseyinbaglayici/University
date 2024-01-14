@@ -1,0 +1,14 @@
+C:\Users\Huseyin\Desktop\Üniversite\PTÖDEV\Yeni klasör\Syf76ödev\bin\Debug\net7.0\Syf76ödev.exe
+C:\Users\Huseyin\Desktop\Üniversite\PTÖDEV\Yeni klasör\Syf76ödev\bin\Debug\net7.0\Syf76ödev.deps.json
+C:\Users\Huseyin\Desktop\Üniversite\PTÖDEV\Yeni klasör\Syf76ödev\bin\Debug\net7.0\Syf76ödev.runtimeconfig.json
+C:\Users\Huseyin\Desktop\Üniversite\PTÖDEV\Yeni klasör\Syf76ödev\bin\Debug\net7.0\Syf76ödev.dll
+C:\Users\Huseyin\Desktop\Üniversite\PTÖDEV\Yeni klasör\Syf76ödev\bin\Debug\net7.0\Syf76ödev.pdb
+C:\Users\Huseyin\Desktop\Üniversite\PTÖDEV\Yeni klasör\Syf76ödev\obj\Debug\net7.0\Syf76ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin\Desktop\Üniversite\PTÖDEV\Yeni klasör\Syf76ödev\obj\Debug\net7.0\Syf76ödev.AssemblyInfoInputs.cache
+C:\Users\Huseyin\Desktop\Üniversite\PTÖDEV\Yeni klasör\Syf76ödev\obj\Debug\net7.0\Syf76ödev.AssemblyInfo.cs
+C:\Users\Huseyin\Desktop\Üniversite\PTÖDEV\Yeni klasör\Syf76ödev\obj\Debug\net7.0\Syf76ödev.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\Desktop\Üniversite\PTÖDEV\Yeni klasör\Syf76ödev\obj\Debug\net7.0\Syf76ödev.dll
+C:\Users\Huseyin\Desktop\Üniversite\PTÖDEV\Yeni klasör\Syf76ödev\obj\Debug\net7.0\refint\Syf76ödev.dll
+C:\Users\Huseyin\Desktop\Üniversite\PTÖDEV\Yeni klasör\Syf76ödev\obj\Debug\net7.0\Syf76ödev.pdb
+C:\Users\Huseyin\Desktop\Üniversite\PTÖDEV\Yeni klasör\Syf76ödev\obj\Debug\net7.0\Syf76ödev.genruntimeconfig.cache
+C:\Users\Huseyin\Desktop\Üniversite\PTÖDEV\Yeni klasör\Syf76ödev\obj\Debug\net7.0\ref\Syf76ödev.dll
